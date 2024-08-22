@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5329459b-e1f6-407a-939c-e834aa5f7a74)# Investigating-with-ELK-101
+# Investigating-with-ELK-101
 
 ![image](https://github.com/user-attachments/assets/7ab5c6ec-f157-45e5-9840-85a9f025dce7)
 
@@ -93,6 +93,8 @@ In this task, I practiced creating search queries using Kibana Query Language (K
 Task 7: Creating Visualizations
 
 Visualizations are crucial for analyzing and interpreting data effectively.
+![image](https://github.com/user-attachments/assets/5329459b-e1f6-407a-939c-e834aa5f7a74)
+
 ![image](https://github.com/user-attachments/assets/c94427c2-b04e-491c-bfb0-5fe4c8a5f4fc)
 
     Which user was observed with the greatest number of failed attempts?
